@@ -16,11 +16,11 @@ A responsive YouTube clone that displays videos in a grid layout with search fun
 
 ## 🖼️ Screenshots
 
-### Desktop View
-![Desktop View](https://via.placeholder.com/800x450?text=YouTube+Clone+Desktop+View)
-
 ### Mobile View
-![Mobile View](https://via.placeholder.com/300x600?text=YouTube+Clone+Mobile+View)
+![Mobile View](image-1.png)
+
+### Desktop View
+![Desktop View](image.png)
 
 
 ## 🌐 Live Demo
