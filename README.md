@@ -25,7 +25,7 @@ A responsive YouTube clone that displays videos in a grid layout with search fun
 
 ## 🌐 Live Demo
 
-Check out the live demo: [YouTube Video Gallery](you-tube-video-listing-beige.vercel.app)
+Check out the live demo: [YouTube Video Gallery](https://you-tube-video-listing-beige.vercel.app/)
 
 ## 🚀 Getting Started
 
