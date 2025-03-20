@@ -17,10 +17,10 @@ A responsive YouTube clone that displays videos in a grid layout with search fun
 ## 🖼️ Screenshots
 
 ### Mobile View
-![Mobile View](image-1.png)
+![Mobile View](/Demos/image-1.png)
 
 ### Desktop View
-![Desktop View](image.png)
+![Desktop View](/Demos/image.png)
 
 
 ## 🌐 Live Demo
